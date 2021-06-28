@@ -1,3 +1,3 @@
 # VSchool
 
-This repo was used to learn git
+This repo stores the projects I worked on while attending VSchool
